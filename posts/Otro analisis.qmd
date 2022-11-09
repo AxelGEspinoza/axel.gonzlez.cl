@@ -1,0 +1,7 @@
+---
+title: "Otro analisis"
+editor: visual
+image: Mili...jpg
+date: 22-08-11
+author: "Axel"
+---

@@ -1,0 +1,25 @@
+---
+title: "Presentacion"
+about:
+  template: jolla
+  image: Mili...jpg
+  links:
+    - icon: twitter
+      text: twitter
+      href: https://twitter.com
+    - icon: github
+      text: Github
+      href: https://github.com
+---
+
+Presentacion del tema, mini resumen, decir que cosas que me interesan
+
+## Education
+
+**Pontificia Universidad Catolica de Chile** | Santiago
+| Licenciatura en Estadistica | March 2019 - Dec 2022
+
+
+## Experience
+
+BNP Parribas Cardiff | Asistente Logistica | Dec 2018 - March 2019

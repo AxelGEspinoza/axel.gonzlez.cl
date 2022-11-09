@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: 3827abe4-2592-4d5d-8344-f365670a2234
+      url: 'https://gespinoza.netlify.app'
